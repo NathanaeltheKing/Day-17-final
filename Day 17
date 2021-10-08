@@ -1,0 +1,12 @@
+<cd documents index.html file/>
+<git init./>
+<https://github.com/NathanaeltheKing/firstProject.git/> git add.
+<git commit-m "create page."/>
+
+
+nathaaelbridges1@gmail.com
+
+NathanaeltheKing
+
+git commit-m "Create Page."
+git push-u origin master
